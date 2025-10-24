@@ -1,41 +1,50 @@
-# 👋 Hey there, I'm Eliud!
-
-🌱 On a mission to grow as a **full-stack developer** — crafting creative projects with  
-**Java, Python, C, PHP, MySQL, HTML, CSS & JavaScript**.  
-Always learning, always building 💡
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#c084fc;">Eliud</span></h1>
+<h3 align="center">🌱 Full-Stack Developer in Progress | Always Learning, Always Building 💡</h3>
 
 ---
 
-### 🔭 Current Focus
-- Developing practical projects that solve real-world problems  
-- Sharpening my skills in **Java** and **database design**  
-- Exploring modern web frameworks and clean UI design
+### 🚀 About Me
+- 🌍 Based in **Kenya**
+- 🎓 CS Student passionate about **Java**, **Databases**, and **Web Development**
+- 💡 Exploring clean UI design and impactful projects  
+- 🧠 On a mission to grow as a **full-stack developer**
 
 ---
 
-### 🚀 Active Projects
-- **SU Feeds** — A student utility app for managing classes, topics & summaries  
-- **Baage** — A peer-to-peer marketplace for Strathmore students  
-- **DUKA-MOJAA** — A simple shop system exploring CRUD operations and UI styling
+### 🛠️ Tech Stack
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,html,css,js,mysql" />
+</p>
 
 ---
 
-### 🧰 Core Stack
-`Java` · `Python` · `C` · `PHP` · `HTML` · `CSS` · `JavaScript` · `MySQL`
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliud365&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliud365&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-### 📚 Learning Next
-- Backend integration & API development  
-- Clean UI/UX principles  
-- Version control best practices (Git branching, PRs, etc.)
+### 🧠 Currently Learning
+- Backend integration & APIs  
+- Modern web frameworks  
+- Clean UI/UX design  
 
 ---
 
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliud-njuguna)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/eliud-njuguna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *“Write code that teaches you something.”*
+⭐ *“Code. Learn. Repeat.”*
