@@ -1,10 +1,9 @@
-<!-- Profile Banner (Optional Custom Image) -->
-<!-- You can replace the link below with your own banner hosted on GitHub or elsewhere -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/vy7hM9f.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo.gif?raw=true" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=6B4DE6&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Eliud!;Full-Stack+Developer+in+Progress;Computer+Science+Student+at+Strathmore+University;Always+Learning+%26+Building+💡" alt="Typing SVG" />
 </p>
@@ -24,7 +23,7 @@ Currently growing as a **Full-Stack Developer**, focusing on both **frontend cre
   <img src="https://skillicons.dev/icons?i=java,python,c,php,mysql,html,css,js,git,vscode,intellij" alt="Tech Stack Icons" />
 </p>
 
-🛠️ Languages & Tools I’ve worked with:
+🛠️ **Languages & Tools I’ve worked with:**
 - **Programming Languages:** Java, Python, C, PHP  
 - **Web Technologies:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
