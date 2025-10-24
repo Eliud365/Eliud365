@@ -61,7 +61,7 @@ Currently growing as a **Full-Stack Developer**, focusing on both **frontend cre
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://github.com/Eliud365"><img src="https://img.shields.io/badge/GitHub-Eliud365-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/eliud-njuguna/"><img src="https://img.shields.io/badge/LinkedIn-Eliud_Njuguna-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/eliud-njuguna-653780394/"><img src="https://img.shields.io/badge/LinkedIn-Eliud_Njuguna-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
