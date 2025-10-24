@@ -1,11 +1,13 @@
 <!-- Eliud Njuguna | GitHub Profile README -->
 
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6B4DE6&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Eliud+👋;Full+Stack+Developer+in+Progress;Computer+Science+Student+at+Strathmore+University;Always+Learning+and+Building+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6B4DE6&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Eliud+👋;Full+Stack+Developer+in+Progress;Computer+Science+Student+at+Strathmore+University;Always+Learning+and+Building+💡" alt="Typing SVG" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Eliud365&label=Profile+Views&color=6B4DE6&style=flat-square" alt="Eliud365" />
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eliud365&label=Profile+Views&color=6B4DE6&style=flat-square" alt="Eliud365 profile views" />
 </p>
 
 ---
@@ -22,9 +24,16 @@ Currently growing as a **Full-Stack Developer**, focusing on both **frontend cre
 ### 🧠 Languages & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,php,html,css,js,mysql,vscode,git&perline=6" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
 </p>
 
 ---
