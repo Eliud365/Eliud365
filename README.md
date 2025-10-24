@@ -1,8 +1,3 @@
-<!-- Eliud365 GitHub Profile README -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6B4DE6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Eliud!;Full+Stack+Developer+in+Progress;Computer+Science+Student+at+Strathmore+University;Always+Learning+and+Building+💡" alt="Typing SVG" />
-</p>
 
 ---
 
